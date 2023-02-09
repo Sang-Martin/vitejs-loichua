@@ -1,5 +1,6 @@
 import React from 'react';
 import puppeteer from 'puppeteer-core'
+import promisify from 'es6-promisify'
 
 export default function App() {
   return (
