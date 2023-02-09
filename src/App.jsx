@@ -1,3 +1,6 @@
+import React from 'react';
+import puppeteer from 'puppeteer-core'
+
 export default function App() {
   return (
     <>
